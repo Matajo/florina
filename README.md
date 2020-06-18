@@ -1,8 +1,8 @@
 # Kwiaciarnia Florina
 
-<b>Temat:</b> Strona typu one page dla kwiaciarni 
-<b>Odbiorcy:</b> Klienci kwiaciarni 
-<b>Sekcje:</b> Start / O nas / Oferta / Galeria / Kontakt 
+<b>Temat:</b> Strona typu one page dla kwiaciarni <br>
+<b>Odbiorcy:</b> Klienci kwiaciarni <br>
+<b>Sekcje:</b> Start / O nas / Oferta / Galeria / Kontakt <br>
 <b>Opis:</b> Strona one page z przyklejoną nawigacją. 
 
 <b>Sekcja start:</b> Statyczna grafika pełnoekranowa z tekstami reklamowymi.  
