@@ -1,5 +1,5 @@
 # Kwiaciarnia Florina
-<h3>trona typu one page dla kwiaciarni</h3>
+<h4>trona typu one page dla kwiaciarni</h4>
 <b>Temat:</b> Strona typu one page dla kwiaciarni <br>
 <b>Odbiorcy:</b> Klienci kwiaciarni <br>
 <b>Sekcje:</b> Start / O nas / Oferta / Galeria / Kontakt <br>
